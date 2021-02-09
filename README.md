@@ -1,5 +1,9 @@
 # Programming
 
+### Basics
+
+- [Shortcuts](./topics/shortcuts.md)
+
 ### Tooling
 
 - [Git](./topics/english.md)
