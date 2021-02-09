@@ -3,7 +3,6 @@ Most developers don’t need to think about domain-driven development when start
 大多数开发人员在开始新项目时不需要考虑领域驱动开发，在大多数情况下，这可能是在浪费时间（当然，除非你在 Big Co.工作，但那你为什么要读一篇针对 Go 初学者的文章）。
 
 ---
-
 Given my 11+ years experience in Go, I have decided to push forward with a reboot, written in Go.
 The goals of the reboot are:
 
@@ -44,3 +43,10 @@ from：https://github.com/nikoksr
 - 🌱 Currently getting into competetive programming
 - ❤️ Open Source Software
 - 🐧 Been using only Linux on my machines for the last three years
+
+---
+My therapist told me that reading the news was causing my depression. So I've managed to completely avoid it for the past five years. I used to consume articles for four hours every day. I’d always read the New York Times front to back-everything except the sports section. But then the Times caused the Iraq war so I switched over to leftist websites. I always thought it was my obligation as a responsible citizen to pay attention to bad news. I guess I was looking for some sort of understanding. If only I could learn enough, then maybe I could help organize something. But all of it just sent me into utter despair. I began to look at other people as brainwashed. Every time I saw someone having kids—I’d get angry. Don’t they realize how uninhabitable the planet is going to be? Everyone thinks if we just make a few changes, we'll be fine. We won't be fine. The problem is systemic and there's no movement capable of ending capitalism in time to save the planet. But anyway, I'm trying not to obsess over this stuff anymore.
+
+我的治疗师说看新闻是导致我抑郁的原因，所以过去五年我彻底戒掉了看新闻的习惯。以前我每天看四小时新闻，总是把《纽约时报》从头读到尾——除了体育版面以外的所有内容都看。但后来时报引发了伊拉克战争，我就转到了左派网站。 我一直认为关注坏新闻是作为负责任的公民的义务。我想我是在寻求某种理解吧。如果能了解足够多的信息，那或许我就能帮忙组织些什么。但一切只让我陷入了彻底的绝望。我开始看着别人都觉得是被洗脑了。一看到有人生小孩儿，我就会生气。难道他们没意识到地球会多么不适宜居住吗？所有人都以为，大家只用做一些改变，我们就能安然无恙了。其实不会的。问题是系统性的，没有及时终结资本主义的运动能力来拯救地球。但无论如何，我现在都尽量不去纠结这些东西了。
+
+Obsess yourself with all the things that might happen in the future.
