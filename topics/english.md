@@ -1,6 +1,6 @@
 Most developers don’t need to think about domain-driven development when starting new projects, and it would probably be a waste of time in most cases (unless, of course, you are working in Big Co. but then why would you be reading an article for beginner Go developers).
 
-大多数开发人员在开始新项目时不需要考虑领域驱动开发，在大多数情况下，这可能是在浪费时间（当然，除非你在 Big Co.工作，但那你为什么要读一篇针对 Go 初学者的文章）。
+大多数开发人员在开始新项目时不需要考虑领域驱动开发，在大多数情况下，这可能是在浪费时间（当然，除非你在大公司工作，但那你为什么要读一篇针对 Go 初学者的文章）。
 
 ---
 Given my 11+ years experience in Go, I have decided to push forward with a reboot, written in Go.
